@@ -137,6 +137,7 @@ components:
           type: string
           example: Validation failed: "type" is required
       required: [message]
+```
 
 ## Abgleich Prosa ⇄ Definition
 

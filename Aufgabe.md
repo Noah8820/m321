@@ -8,7 +8,7 @@
 
 Wir wählen **OpenAPI 3.1** (statt GraphQL), weil:
 - Prosa spricht explizit von **HTTP-Methoden** und **Response Types** → passt direkt zu REST/OpenAPI.
-- OpenAPI liefert sofort nutzbare Artefakte (Docs, Mocks, SDKs, Validatoren).
+- OpenAPI liefert nutzbare Artefakte (Docs, Mocks, SDKs, Validatoren).
 
 ---
 

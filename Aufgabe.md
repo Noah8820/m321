@@ -165,12 +165,12 @@ components:
 
 ## 5) Manuelle Qualitätskontrolle (Checkliste)
 
-- [ ] **Prosa vollständig umgesetzt?** (alle genannten Fragen beantwortet)  
-- [ ] **HTTP-Semantik korrekt?** (`POST` für Erstellen/Einreihen, `GET` idempotent)  
-- [ ] **Statuscodes passend?** (`202` für asynchron akzeptiert)  
-- [ ] **Schemas geschlossen?** (`additionalProperties` sinnvoll gesetzt)  
-- [ ] **Beispiele vorhanden?** (erleichtert Test/Verständnis)  
-- [ ] **Erweiterbarkeit bedacht?** (weitere Task-Typen via `payload` möglich)
+-  **Prosa vollständig umgesetzt?** (alle genannten Fragen beantwortet)  
+-  **HTTP-Semantik korrekt?** (`POST` für Erstellen/Einreihen, `GET` idempotent)  
+-  **Statuscodes passend?** (`202` für asynchron akzeptiert)  
+-  **Schemas geschlossen?** (`additionalProperties` sinnvoll gesetzt)  
+-  **Beispiele vorhanden?** (erleichtert Test/Verständnis)  
+-  **Erweiterbarkeit bedacht?** (weitere Task-Typen via `payload` möglich)
 
 ---
 
